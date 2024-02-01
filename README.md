@@ -23,7 +23,7 @@ Neste repositório, você encontrará uma coleção de projetos que demonstro me
 
 Estou sempre aberto a novas oportunidades de colaboração e adoro conhecer outros profissionais da área. Se você tiver alguma pergunta, sugestão ou apenas quiser bater um papo, não hesite em me contatar!
 
-- **Email**: seuemail@example.com
+- **Email**: gabrielsilva.mene@gmail.com
 - **LinkedIn**: [LinkedIn](https:///www.linkedin.com/in/gabriel-silva-menezes-dos-santos-19474415b/)
 
 Obrigado por visitar! Espero que encontre algo interessante por aqui. 😊
