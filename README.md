@@ -1,29 +1,29 @@
-# Bem-vindo ao meu Perfil! 👋
+# Welcome to my Profile! 👋
 
-Olá! Sou um desenvolvedor fullstack apaixonado por criar soluções inovadoras usando tecnologias modernas. Aqui está um pouco do que você pode esperar encontrar neste repositório:
+Hello! I'm a passionate fullstack developer who loves creating innovative solutions using modern technologies. Here's a glimpse of what you can expect to find in this repository:
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-- **Node.js**: Para a construção de aplicações backend robustas e escaláveis.
-- **Next.js**: Minha escolha para o desenvolvimento de aplicações web rápidas e eficientes, especialmente com SSR e SSG.
-- **React.js**: Uma ferramenta essencial no meu kit de desenvolvimento para criar interfaces de usuário dinâmicas e intuitivas.
-- **Angular.js**: Para projetos que exigem uma estrutura mais rígida e orientada a componentes.
-- **TypeScript**: Minha linguagem preferida para garantir tipagem estática e um código mais seguro.
-- **NestJS**: Ideal para construir APIs altamente escaláveis e modularizadas.
+- **Node.js**: For building robust and scalable backend applications.
+- **Next.js**: My choice for developing fast and efficient web applications, especially with SSR and SSG.
+- **React.js**: An essential tool in my development toolkit for creating dynamic and intuitive user interfaces.
+- **Angular.js**: For projects that require a more structured, component-oriented framework.
+- **TypeScript**: My preferred language for ensuring static typing and safer code.
+- **NestJS**: Ideal for building highly scalable and modularized APIs.
 
-## 💼 Experiência Profissional
+## 💼 Professional Experience
 
-Tenho trabalhado como desenvolvedor fullstack há 4 anos, colaborando em uma variedade de projetos desafiadores e emocionantes. Meu foco principal é entregar produtos de alta qualidade que atendam às necessidades dos clientes e ofereçam uma ótima experiência de usuário.
+I've been working as a fullstack developer for 4 years, collaborating on a variety of challenging and exciting projects. My main focus is on delivering high-quality products that meet the clients' needs and provide a great user experience.
 
-## 🔧 Projetos
+## 🔧 Projects
 
-Neste repositório, você encontrará uma coleção de projetos que demonstro meu conhecimento e habilidades em diversas tecnologias. Fique à vontade para explorar e fornecer feedback!
+In this repository, you'll find a collection of projects showcasing my knowledge and skills in various technologies. Feel free to explore and provide feedback!
 
-## 📫 Entre em Contato
+## 📫 Contact
 
-Estou sempre aberto a novas oportunidades de colaboração e adoro conhecer outros profissionais da área. Se você tiver alguma pergunta, sugestão ou apenas quiser bater um papo, não hesite em me contatar!
+I'm always open to new collaboration opportunities and love connecting with other professionals in the field. If you have any questions, suggestions, or just want to chat, feel free to reach out!
 
 - **Email**: gabrielsilva.mene@gmail.com
-- **LinkedIn**: [LinkedIn](https:///www.linkedin.com/in/gabriel-silva-menezes-dos-santos-19474415b/)
+- **LinkedIn**: [Gabriel Silva](https://www.linkedin.com/in/gabriel-silva-menezes-dos-santos-19474415b/)
 
-Obrigado por visitar! Espero que encontre algo interessante por aqui. 😊
+Thanks for visiting! I hope you find something interesting here. 😊
